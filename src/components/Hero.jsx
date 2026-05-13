@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from './Container'
-import heroImg from "../assets/heroImg.gif";
+import heroImg from "../assets/heroimg.gif";
 const Hero = () => {
   return (
     <Container>
